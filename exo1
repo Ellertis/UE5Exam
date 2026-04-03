@@ -1,0 +1,3 @@
+exo1
+
+Pour resoudre le conflit, j'ai utiliser la structure des sub levels. Cela évite de créer des conflits entre les branches quand les gens travaillent sur le même niveau, mais permet à la fois de contribuer sur les mêmes scenes. Un sub level pour la branche main, puis un sub level pour la branch my branch. Ainsi il n'y a pas eu de conflit lors du rebase.
